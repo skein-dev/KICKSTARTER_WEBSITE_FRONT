@@ -561,12 +561,12 @@ if (! isset($_SERVER['HTTPS']) or $_SERVER['HTTPS'] == 'off' ) {
                         <a href="/pages/faq">FAQ</a>
                         <a href="/pages/rules">rules</a>
                     </div>
-                    <div class="KICKSTARTER TRX_footer">Copyright 2020-2021 KICKSTARTER TRX LTD. All rights reserved </div>
+                    <div class="KICKSTARTER TRX_footer">Copyright 2020-2021 KICKSTARTER TRX LTD.</div>
                 </div>
             </div>
         </div>
     </footer>
-    
+
 </body>
 
 </html>
